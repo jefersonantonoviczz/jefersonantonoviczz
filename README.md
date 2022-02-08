@@ -1,4 +1,4 @@
-### OI! 💻 🤓
+### OI!  💻 🤓
 
 🖥️ - entusiasta front-end
 <br>🎒 - Estudante de tecnologia 
